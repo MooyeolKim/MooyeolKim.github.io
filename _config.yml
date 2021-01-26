@@ -1,11 +1,11 @@
 # Site settings
-title: Moo10 BLOG
-SEOTitle: Moo10 | 기술 블로그
+title: Moo1o BLOG
+SEOTitle: Moo1o | 기술 블로그
 header-img: img/home-bg.jpg
 email: mooyb1@gmail.com
 description: developer, Web, Backend
 keyword: developer, Web, Backend
-url: "http://mooyeolkim.github.io"              # your host, for absolute URL
+url: "http://moo1o.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username:     
 zhihu_username:     
-github_username:    MooyeolKim
+github_username: moo1o
 twitter_username:   
 facebook_username:
 #linkedin_username:  firstname-lastname-idxxxx
