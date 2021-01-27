@@ -1,3 +1,3 @@
-[Moo10 Blog](https://mooyeolkim.github.io)
+[Moo10 Blog](https://moo1o.github.io)
 ================================
 
